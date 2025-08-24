@@ -14,4 +14,10 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    public class  Main1 {
+        public static void main(String[] args) {
+            System.out.printf("Hello and welcome!");
+        }
+    }
 }
